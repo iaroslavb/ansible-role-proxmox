@@ -1,4 +1,4 @@
-<img style="float:left" alight="left" height="128px" width="384px" src="https://github.com/iaroslavb/ansible-role-proxmox/raw/master/proxmox_logo.png">
+<img style="float:left" alight="left" height="128px" width="128px" src="https://github.com/iaroslavb/ansible-role-proxmox/raw/master/proxmox_logo.png">
 
 Ansible Role: Proxmox VE
 =========
